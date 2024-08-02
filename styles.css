@@ -1,4 +1,32 @@
 /*  your css code here. If applicable */
 .full-table{
 	background-color:yellow;
+	border:1px solid black;
+}
+.r0c0{
+	border:1px solid black;
+}
+.r0c1{
+	border:1px solid black;
+}
+.r0c2{
+	border:1px solid black;
+}
+.r1c0{
+	border:1px solid black;
+}
+.r1c1{
+	border:1px solid black;
+}
+.r1c2{
+	border:1px solid black;
+}
+.r2c0{
+	border:1px solid black;
+}
+.r2c1{
+	border:1px solid black;
+}
+.r2c2{
+	border:1px solid black;
 }
